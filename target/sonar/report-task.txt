@@ -1,6 +1,6 @@
-projectKey=nov-project
+projectKey=jenkins-pro
 serverUrl=http://18.222.252.32:9000
 serverVersion=7.8.0.26217
-dashboardUrl=http://18.222.252.32:9000/dashboard?id=nov-project
-ceTaskId=AYwDA_J2d2sZOCfIuRtc
-ceTaskUrl=http://18.222.252.32:9000/api/ce/task?id=AYwDA_J2d2sZOCfIuRtc
+dashboardUrl=http://18.222.252.32:9000/dashboard?id=jenkins-pro
+ceTaskId=AYwDJHV8d2sZOCfIuRtm
+ceTaskUrl=http://18.222.252.32:9000/api/ce/task?id=AYwDJHV8d2sZOCfIuRtm
