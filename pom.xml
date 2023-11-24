@@ -8,12 +8,12 @@
 	
 	<version>0.0.1-SNAPSHOT</version> 
 	
-	<name>YYYYYY-web-app</name>
+	<name>nov-pro-web-app</name>
 
 	<description>Maven Web Project for Java Project</description>
 
 	<organization>
-		<name>YYYYYY  Technologies</name>
+		<name>nov-pro Technologies</name>
 		<url>http://Lion technologies.com/</url>
 	</organization>
 
